@@ -10,8 +10,8 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADRESS: cluster0.itfeeal.mongodb.net
-      MONGODB_USERNAM: dsarraf_db_user
+      MONGODB_CLUSTER_ADDRESS: cluster0.itfeeal.mongodb.net
+      MONGODB_USERNAME: dsarraf_db_user
       MONGODB_PASSWORD: g1YWYYFv4a4Ptrwf
       PORT: 3000
     environment: testing
